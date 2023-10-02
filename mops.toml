@@ -1,0 +1,14 @@
+[dependencies]
+json = "https://github.com/aviate-labs/json.mo#v0.2.1"
+array = "https://github.com/aviate-labs/array.mo#v0.2.1"
+encoding = "https://github.com/aviate-labs/encoding.mo#v0.3.2"
+parser-combinators = "https://github.com/aviate-labs/parser-combinators.mo#v0.1.0"
+base = "0.10.0"
+
+[package]
+name = "http-parser-forked"
+version = "1.0.0"
+description = "Fork of http-parser from NatLabs"
+repository = "https://github.com/krpeacock/http-parser"
+keywords = [ "http", "parser", "request", "response" ]
+license = "Apache-2.0"
